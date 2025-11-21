@@ -2,7 +2,7 @@
 
 A clean, modern, and responsive To-Do List application built with React, TypeScript, and Vite.
 
-
+![To-Do App](src/assets/to-do.png)
 
 ## Features
 
